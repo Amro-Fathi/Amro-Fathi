@@ -1,130 +1,92 @@
-# 👋 Hey, I'm Amr Fathi
+<!-- 🌌 PROFILE HEADER --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:312E81,100:06B6D4&text=Amr%20Fathi&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=Software%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Amr Fathi profile banner"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Enthusiast+%E2%9A%A1;Creative+UI%2FUX+Explorer+%F0%9F%8E%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Animated developer introduction"/><br/>""GitHub" (https://img.shields.io/badge/GitHub-Amro--Fathi-181717?style=for-the-badge&logo=github)" (https://github.com/Amro-Fathi)
+"Profile Views" (https://komarev.com/ghpvc/?username=Amro-Fathi&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)
 
-### Software Developer · Full-Stack Enthusiast · Creative Problem Solver
+</div>---
 
-I turn ideas into interactive digital experiences, combining **clean code, thoughtful design, and practical functionality**. I enjoy building responsive websites, developing JavaScript applications, integrating APIs, and exploring the engineering behind great user experiences.
+👨‍💻 About Me
 
-- 💻 Building interactive, responsive web applications
-- 🎨 Passionate about modern UI/UX and creative CSS
-- ⚡ Exploring JavaScript, TypeScript, APIs, and software architecture
-- 🚀 Always learning, experimenting, and building something new
+<img align="right" width="290" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer working at a computer"/>I'm Amr Fathi, a software developer passionate about technology, creative design, and understanding how software works beneath the surface.
 
----
+I enjoy combining engineering fundamentals with thoughtful visual design to create interfaces that are both functional and engaging.
 
-## 🛠️ Tech Stack
+- 💻 Interested in full-stack software development.
+- 🎨 Passionate about creative UI/UX and advanced CSS.
+- ⚡ Exploring JavaScript, TypeScript, APIs, and application architecture.
+- 🧠 Interested in algorithms, data structures, and programming fundamentals.
+- 🛠️ Focused on clean, reusable, maintainable code.
+- 🌱 Always improving my technical skills and engineering mindset.
+- 🚀 Motivated by curiosity, experimentation, and continuous learning.
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br clear="right"/>---
 
-### Backend & Databases
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+🧰 My Technology Universe
 
-### Other Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🎨 Frontend Development
 
----
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Sass and Bootstrap icons"/></div>My frontend interests include responsive layouts, semantic HTML, advanced CSS effects, animations, reusable styles, DOM manipulation, interactive components, and strongly typed JavaScript applications.
 
-## 🚀 Featured Projects
+⚙️ Backend & Data
 
-### 🎬 CINEVERSE — Movie Discovery Experience
-A movie-focused web project exploring interactive browsing, structured movie data, API integration, and a cinematic user experience.
+<div align="center"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres&theme=dark" alt="PHP, Laravel, MySQL and PostgreSQL icons"/></div>I explore server-side development, database fundamentals, structured data, API integration, HTTP requests, JSON, pagination, and the connection between frontend applications and backend services.
 
-- Built a structured movie JSON API with consolidated categories.
-- Organized movie information, reviews, trailers, and image references.
-- Focused on making large datasets easier to consume in frontend applications.
+💻 Programming Languages
 
-**Tech:** JavaScript · JSON · REST-style data delivery · API Integration
+<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,c,java,python,php&theme=dark" alt="JavaScript, TypeScript, C, Java, Python and PHP icons"/></div>I value understanding the fundamentals behind programming languages, including functions, objects, memory concepts, control flow, data structures, algorithms, and object-oriented programming.
 
-🔗 [Explore My Movie API](https://github.com/Amro-Fathi/api)
+🔧 Tools & Development Environment
 
-### 👟 Nike — E-commerce Frontend
-A responsive Nike-inspired storefront focused on interactive shopping experiences and modern product presentation.
-
-- Dynamic product rendering and product filtering.
-- Search, shopping cart, and wishlist functionality.
-- Local storage for persisting relevant user selections.
-- Responsive layouts, animations, and polished UI details.
-
-**Tech:** HTML · CSS · Sass · Bootstrap · JavaScript
-
-🌐 [Live Demo](https://amr-sudu7.github.io/Nike/) · 💻 [Source Code](https://github.com/Amro-Fathi)
-
-### 🎨 Fokir — Responsive Portfolio Website
-A portfolio website recreation demonstrating attention to layout, typography, responsive design, and visual consistency.
-
-- Structured, reusable page sections.
-- Responsive styling across screen sizes.
-- Focus on clean presentation and accessible content structure.
-
-**Tech:** HTML5 · CSS3
-
-🌐 [Live Demo](https://amr-sudu7.github.io/Fokir/)
-
-### 🏠 L10NHOUSE — Web Design Project
-A creative web project showcasing visual design, interactive interfaces, and custom UI elements.
-
-🌐 [Explore the Project](https://amr-sudu7.github.io/L10NHOUSE/)
+<div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code and Linux icons"/></div>My development workflow centers on version control, debugging, browser developer tools, repository management, and keeping code organized and maintainable.
 
 ---
 
-## 🧠 What I Focus On
+📊 GitHub Analytics
 
-- **Frontend Engineering:** Building maintainable, responsive, interactive interfaces.
-- **UI/UX Implementation:** Translating visual concepts into polished web experiences.
-- **API Integration:** Fetching, structuring, and rendering data efficiently.
-- **Problem Solving:** Understanding how things work rather than relying only on ready-made solutions.
-- **Continuous Learning:** Strengthening my fundamentals while exploring new technologies and approaches.
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amro-Fathi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amro-Fathi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most frequently used programming languages"/><br/><br/>
 
----
+<img width="70%" src="https://streak-stats.demolab.com?user=Amro-Fathi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="GitHub contribution streak"/></div>---
 
-## 📊 GitHub Statistics
+📈 Contribution Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amro-Fathi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Amr's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amro-Fathi&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amro-Fathi&bg_color=0D1117&color=38BDF8&line=6366F1&point=F97316&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph"/></div>---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amro-Fathi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+🧠 My Developer Mindset
 
----
+<div align="center">🧩 Principle| 💡 What It Means to Me
+Understand| Learn why something works, not just how to use it.
+Create| Combine functionality with thoughtful visual design.
+Optimize| Care about performance, maintainability, and efficient data handling.
+Experiment| Test ideas, explore edge cases, and learn from mistakes.
+Improve| Refine my skills and solutions through continuous practice.
 
-## 🌱 Currently Growing
+</div>---
 
-I'm continuously improving my software development skills, exploring better ways to structure applications, optimize frontend experiences, and build projects that combine creativity with solid engineering principles.
+🌱 Currently Growing
 
-I believe the best way to learn is to **build, break, understand, and build better.**
+<div align="center"><img src="https://img.shields.io/badge/JavaScript-Deepening%20Knowledge-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-Expanding%20Skills-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-Building%20Foundations-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full--Stack-Continuous%20Learning-06B6D4?style=flat-square"/></div>I'm continuously working to improve my understanding of:
 
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, sharing ideas, learning from others, and collaborating on interesting projects.
-
-<p>
-  <a href="https://github.com/Amro-Fathi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
+- JavaScript & TypeScript: language behavior, asynchronous programming, types, and application architecture.
+- Software Engineering: algorithms, data structures, object-oriented design, and problem-solving.
+- Full-Stack Development: APIs, backend logic, databases, and data flow.
+- Frontend Craftsmanship: advanced CSS, responsive design, animation, and maintainable UI architecture.
+- Performance & Data: pagination, efficient retrieval, and scalable application behavior.
 
 ---
 
-<p align="center">
-  <i>"Great software isn't just built to work. It's built to make a difference."</i>
-</p>
+💭 A Thought That Drives Me
 
-<p align="center">
-  ⭐ If you find something interesting here, explore my repositories and follow my journey.
-</p>
+<div align="center">"Build with curiosity. Think with precision. Improve with every iteration."
+
+Every challenge is an opportunity to understand something more deeply.
+
+</div>---
+
+🤝 Let's Connect
+
+<div align="center"><a href="https://github.com/Amro-Fathi">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile"/>
+</a><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:312E81,100:0D1117" width="100%" alt="Decorative cosmic footer"/></div>
