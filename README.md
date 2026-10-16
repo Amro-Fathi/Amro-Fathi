@@ -14,7 +14,7 @@
 
 
 <a href="https://github.com/Amro-Fathi"><img src="https://img.shields.io/badge/GitHub-Amro--Fathi-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-<img src="https://komarev.com/ghpvc/?username=Amro-Fathi&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
+<!--<img src="https://komarev.com/ghpvc/?username=Amro-Fathi&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />-->
 <img src="https://img.shields.io/github/followers/Amro-Fathi?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" alt="GitHub followers" />
 </div>
 
